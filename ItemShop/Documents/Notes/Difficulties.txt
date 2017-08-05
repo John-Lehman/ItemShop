@@ -1,0 +1,39 @@
+How to keep players interested and entertained?
+
+Make them think.
+
+Problems require unique solutions.
+
+
+
+Descision: Initial income
+Work: Grab customers
+
+
+Concept
+Paradigm
+Feature
+Mechanic
+Interface
+
+
+
+Concept
+	Make customers buy products
+Paradigm
+	Get Customers
+	Get Products
+Feature
+	Customers have desires
+	Products must be crafted
+	Space is limited
+
+Mechanic
+	Customers walk by the shop
+	Day / Night cycle
+	Customers have random desires
+	
+Interface
+	Place store elements in shop
+	Manipulate Customers
+	Craft new items.

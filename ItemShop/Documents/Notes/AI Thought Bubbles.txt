@@ -1,0 +1,15 @@
+ 
+ 
+- Desires
+(Things driving an NPCs behavior.)
+- Spend Money
+- Spend Time At Store
+- Be In Appealing Store
+- Items Found
+- Stuck
+- Have Stamina
+- Not Be Picked Up
+- Location In Store
+- Buy Things In Proximity
+- Look At Item
+- Browse

@@ -1,0 +1,15 @@
+- Things just in the street.. non-customers
+	- town crier
+	- goblin helpers.
+	- Mayor
+	- Towns
+	- Shop Layout
+	- helper classes
+	- Customers.. races, stats, communication
+	- Attack (broom?)
+	- Items..
+	- Catalog.. Other Interacts (city ordanences?)
+
+
+Think about the mini-games.. how do they fit in.
+

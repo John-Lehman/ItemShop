@@ -1,0 +1,3 @@
+Include graphs and spreadsheets showing each days resources gained and lost.
+
+This will be invaluable for testing, and possibly useful for the player.
